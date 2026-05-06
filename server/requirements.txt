@@ -1,0 +1,19 @@
+# NeuralChat — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Web Framework ──
+Flask==3.0.0
+flask-cors==4.0.0          # Cross-Origin Resource Sharing
+
+# ── Database ──
+pymongo==4.6.0             # MongoDB driver
+
+# ── Environment Variables ──
+python-dotenv==1.0.0       # Load .env file
+
+# ── AI Providers (install at least one) ──
+#openai==1.6.1              # OpenAI GPT (not needed when using Gemini)
+google-generativeai==0.3.2 # Google Gemini (comment out if using OpenAI)
+
+# ── Production Server (for deployment) ──
+gunicorn==21.2.0           # WSGI server for Render/Railway

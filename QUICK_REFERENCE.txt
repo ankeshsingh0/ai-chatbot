@@ -1,0 +1,38 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃       🤖 NeuralChat — Quick Reference Card                        ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                    ┃
+┃  🚀 START THE SERVER:                                             ┃
+┃  ──────────────────────────────────────────────────────────       ┃
+┃     1. Double-click: RUN.bat                                      ┃
+┃     OR in terminal:                                               ┃
+┃     .venv\Scripts\activate                                        ┃
+┃     cd server                                                     ┃
+┃     python app.py                                                 ┃
+┃                                                                    ┃
+┃  🌐 OPEN IN BROWSER:                                              ┃
+┃  ──────────────────────────────────────────────────────────       ┃
+┃     http://localhost:5000                                         ┃
+┃                                                                    ┃
+┃  💬 START CHATTING:                                               ┃
+┃  ──────────────────────────────────────────────────────────       ┃
+┃     Type message → Press Send                                     ┃
+┃                                                                    ┃
+┃  🛑 STOP THE SERVER:                                              ┃
+┃  ──────────────────────────────────────────────────────────       ┃
+┃     Press: Ctrl + C                                               ┃
+┃                                                                    ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  📚 DOCUMENTATION:                                                 ┃
+┃  • README.md           ← Overview                                 ┃
+┃  • QUICKSTART.md       ← Fast guide (read first!)                 ┃
+┃  • SETUP_GUIDE.md      ← Detailed setup                           ┃
+┃  • VERIFICATION.md     ← Checklist                                ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  🔑 IMPORTANT:                                                     ┃
+┃  • API Key: server/.env (DO NOT COMMIT!)                          ┃
+┃  • Model: gemini-2.5-flash (latest)                               ┃
+┃  • Port: 5000 (change in .env if needed)                          ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  ✅ Status: FULLY WORKING & READY TO USE                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

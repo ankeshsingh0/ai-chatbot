@@ -1,0 +1,37 @@
+# NeuralChat .gitignore
+
+# ── Environment (NEVER commit .env) ──
+.env
+*.env
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# ── Node / npm (if added later) ──
+node_modules/
+npm-debug.log
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+*.swp
+
+# ── IDE ──
+.idea/
+.vscode/
+*.sublime-workspace
+
+# ── Logs ──
+*.log
+logs/
